@@ -1,0 +1,90 @@
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\bin\Debug\Null Resturant V7.exe.config
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\bin\Debug\Null Resturant V7.exe
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\bin\Debug\Null Resturant V7.pdb
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null Resturant V7.csprojAssemblyReference.cache
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Form.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.HomeUC.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Properties.Resources.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.GenerateResource.cache
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.CoreCompileInputs.cache
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null Resturant V7.exe
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null Resturant V7.pdb
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.DeliveryUC.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.AboutUsUC.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.MenuUC.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.OffersUC.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer1.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer2.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer3.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer4.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer5.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer6.resources
+C:\Users\Medo\source\repos\Null Resturant V7\Null Resturant V7\obj\Debug\Null_Resturant_V7.CustomersUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\bin\Debug\Null Resturant V7.exe.config
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\bin\Debug\Null Resturant V7.exe
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\bin\Debug\Null Resturant V7.pdb
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null Resturant V7.csprojAssemblyReference.cache
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.AboutUsUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.CustomersUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.DeliveryUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Form.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.HomeUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.MenuUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.OffersUC.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer1.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer2.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer3.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer4.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer5.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer6.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null_Resturant_V7.Properties.Resources.resources
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.GenerateResource.cache
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.CoreCompileInputs.cache
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null Resturant V7.exe
+D:\ACU\Null;\Null; Resturant\v7\Null Resturant v7.8\Null Resturant V7\obj\Debug\Null Resturant V7.pdb
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.AboutUsUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.CustomersUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.DeliveryUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Form.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.HomeUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.MenuUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.MyInfoUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.OffersUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer1.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer2.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer3.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer4.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer5.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer6.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null_Resturant_V7.Properties.Resources.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.GenerateResource.cache
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.CoreCompileInputs.cache
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null Resturant V7.exe
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\obj\Debug\Null Resturant V7.pdb
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\bin\Debug\Null Resturant V7.exe.config
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\bin\Debug\Null Resturant V7.exe
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\bin\Debug\Null Resturant V7.pdb
+C:\Users\elsha\Desktop\Null Resturant v8.1\Null Resturant V7\bin\Debug\Project.accdb
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\bin\Debug\Project.accdb
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\bin\Debug\Null Resturant V7.exe.config
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\bin\Debug\Null Resturant V7.exe
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\bin\Debug\Null Resturant V7.pdb
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.AboutUsUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.CustomersUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.DeliveryUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Form.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.HomeUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.MenuUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.MyInfoUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.OffersUC.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer1.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer2.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer3.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer4.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer5.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Offers.offer6.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null_Resturant_V7.Properties.Resources.resources
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.GenerateResource.cache
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null Resturant V7.csproj.CoreCompileInputs.cache
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null Resturant V7.exe
+C:\Users\elsha\Desktop\Null Resturant v8.1 - Copy\Null Resturant V7\obj\Debug\Null Resturant V7.pdb
